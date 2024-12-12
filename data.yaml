@@ -1,0 +1,7 @@
+#경로 설정
+train: C:/Users/default.DESKTOP-T7K82N0/PycharmProjects/sengche/final/Sample/output_yolo_dataset/val/images
+val: C:/Users/default.DESKTOP-T7K82N0/PycharmProjects/sengche/final/Sample/output_yolo_dataset/train/images
+
+nc: 7
+
+names: ['유충_정상', '유충_응애', '유충_부저병', '유충_석고병', '성충_정상', '성충_응애', '성충_날개불구바이러스감염증']
